@@ -1,5 +1,7 @@
 homepage: "https://www.hubspot.com"
 documentation: "https://github.com/newnorthdigital/hubspot-web-tag/blob/main/README.md"
 versions:
+  - sha: 8104db397dbe4f4a7ade8239f00234186fb36207
+    changeNotes: "Fix brand thumbnail."
   - sha: 9f791d9e68e329c447ba16024f669e37bccbd9d1
     changeNotes: "Initial release. Supports initialisation with regional routing (auto/NA1/EU1), setContentType classification, visitor identify with custom contact properties, SPA page views with optional setPath, and consent actions (doNotTrack / revokeCookieConsent)."
