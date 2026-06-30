@@ -13,7 +13,7 @@ ___INFO___
   "id": "cvt_temp_public_id",
   "version": 1,
   "securityGroups": [],
-  "displayName": "HubSpot Tracking by New North Digital",
+  "displayName": "HubSpot Tracking by New North",
   "categories": [
     "ANALYTICS",
     "MARKETING",
