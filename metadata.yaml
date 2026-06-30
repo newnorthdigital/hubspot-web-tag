@@ -1,6 +1,8 @@
 homepage: "https://www.hubspot.com"
 documentation: "https://github.com/newnorthdigital/hubspot-web-tag/blob/main/README.md"
 versions:
+  - sha: 89f43c88c6b4fcde8d637073200676f6999812e6
+    changeNotes: 'Shortened display name to by New North.'
   - sha: e723197d2d7ec9dffec3c98c980252e6c2f9c1a0
     changeNotes: 'Centered NND glyph in the icon badge.'
   - sha: a2926f5c9e1ae6718fcac8785ce87943720e3139
