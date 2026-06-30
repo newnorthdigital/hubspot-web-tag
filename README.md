@@ -4,7 +4,7 @@ A Google Tag Manager template for the **HubSpot Tracking Code** that goes well b
 
 Installs the HubSpot tracking script and exposes the four actions you actually use day-to-day from inside GTM — initialisation, visitor identification, SPA page views, and consent revocation — with regional routing for NA1 and EU1 portals.
 
-[![Maintained by New North Digital](https://img.shields.io/badge/Maintained%20by-New%20North%20Digital-455CE9)](https://newnorth.nl?utm_source=github&utm_medium=gtm-template&utm_campaign=hubspot-web-tag)
+[![Created by Freek Kampen](https://img.shields.io/badge/Created%20by-Freek%20Kampen-455CE9)](https://freekkampen.com) [![Maintained by New North Digital](https://img.shields.io/badge/Maintained%20by-New%20North%20Digital-455CE9)](https://newnorth.nl?utm_source=github&utm_medium=gtm-template&utm_campaign=hubspot-web-tag)
 
 ## Features
 
@@ -102,7 +102,7 @@ This template does not read the GTM Consent State directly — use the standard 
 
 ## Author
 
-Built and maintained by **[New North Digital](https://newnorth.nl?utm_source=github&utm_medium=gtm-template&utm_campaign=hubspot-web-tag)** — an analytics implementation studio specialising in GTM, sGTM, GA4, and ad-platform conversion tracking.
+Created and maintained by [Freek Kampen](https://freekkampen.com) at **[New North Digital](https://newnorth.nl?utm_source=github&utm_medium=gtm-template&utm_campaign=hubspot-web-tag)** — an analytics implementation studio specialising in GTM, sGTM, GA4, and ad-platform conversion tracking.
 
 ## License
 
